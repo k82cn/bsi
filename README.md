@@ -1,2 +1,3 @@
-# bsi-apiserver
-The API server of OpenBSI which support nuclear Kubernetes Kinds.
+# bsi-core
+
+The kernel of OpenBSI, including worload management, scheduling and so on.s.
